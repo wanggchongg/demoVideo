@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\decode_func.o
+./release\display_func.o
+./release\matrix.o
+./release\raptorcode.o
+./release\gilbert.o
+./release\moc_mainwindow.o
+./release\moc_decode_func.o
+./release\moc_display_func.o
+);

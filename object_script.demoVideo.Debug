@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\decode_func.o
+./debug\display_func.o
+./debug\matrix.o
+./debug\raptorcode.o
+./debug\gilbert.o
+./debug\moc_mainwindow.o
+./debug\moc_decode_func.o
+./debug\moc_display_func.o
+);
